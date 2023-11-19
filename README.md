@@ -1,3 +1,4 @@
+![](logo.jpeg)
 # AIPOD: AI-Powered Podcast Generator
 
 Built by: Filip Ryzner, Jakub Smekal, Fengrui Zuo, Tanya Rai, Ivory Tang
