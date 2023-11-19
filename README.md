@@ -2,6 +2,8 @@
 
 Built by: Filip Ryzner, Jakub Smekal, Fengrui Zuo, Tanya Rai, Ivory Tang
 
+WIP version [here](https://github.com/ryznefil/MoaR_AGI/tree/main)
+
 ## Introduction
 Welcome to AIPOD, the innovative AI podcast generator that transforms technical research papers into engaging, digestible podcasts. Utilizing advanced AI techniques, AIPOD offers an interactive and user-friendly platform to access complex research in an easy-to-understand audio format.
 
